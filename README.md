@@ -5,7 +5,7 @@ Repositorio responsável das demos durante o evento  **[SATC 2019](https://www.s
 ## Recursos Utilizados ⭐️⭐️
 
 - [Node.js](https://nodejs.org/en/)
-- [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases)
+- [Bot Framework Emulator v.3](https://github.com/Microsoft/BotFramework-Emulator/releases)
 - [Luis.ai](https://luis.ai/home)
 - [Yeoman.io](https://yeoman.io/)
 - [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=demo-satc-nlp-chatbot-github-gllemos)
