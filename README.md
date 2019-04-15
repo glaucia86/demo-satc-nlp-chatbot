@@ -1,6 +1,6 @@
 # Demos: Criando ChatBots Inteligentes com NLP & Node.js by Glaucia Lemos
 
-Repositorio responsável das demos durante o evento  **[SATC 2019](https://www.sympla.com.br/chatbots-mais-inteligentes-com-luis-nodejs--microsoft-bot-framework-com-glaucia-lemos__484467)**
+Repositório responsável das demos durante o evento  **[SATC 2019](https://www.sympla.com.br/chatbots-mais-inteligentes-com-luis-nodejs--microsoft-bot-framework-com-glaucia-lemos__484467)**
 
 ## Recursos Utilizados ⭐️⭐️
 
