@@ -1,6 +1,6 @@
 /**
 * Arquivo: pizzaria/pizzariaItaliana.js
-* Data: 15/04/2019
+* Data: 18/04/2019
 * Descrição: Desenvolvimento de um ChatBot de pedido de pizzas integrado com o Luis.ai
 * Author: Glaucia Lemos
 *
